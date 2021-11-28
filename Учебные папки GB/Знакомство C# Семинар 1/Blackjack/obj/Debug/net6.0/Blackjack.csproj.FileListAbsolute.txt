@@ -1,0 +1,16 @@
+C:\Users\Рыжик\Desktop\Учебные папки GB\Знакомство C# Семинар 1\Blackjack\bin\Debug\net6.0\Blackjack.exe
+C:\Users\Рыжик\Desktop\Учебные папки GB\Знакомство C# Семинар 1\Blackjack\bin\Debug\net6.0\Blackjack.deps.json
+C:\Users\Рыжик\Desktop\Учебные папки GB\Знакомство C# Семинар 1\Blackjack\bin\Debug\net6.0\Blackjack.runtimeconfig.json
+C:\Users\Рыжик\Desktop\Учебные папки GB\Знакомство C# Семинар 1\Blackjack\bin\Debug\net6.0\Blackjack.dll
+C:\Users\Рыжик\Desktop\Учебные папки GB\Знакомство C# Семинар 1\Blackjack\bin\Debug\net6.0\ref\Blackjack.dll
+C:\Users\Рыжик\Desktop\Учебные папки GB\Знакомство C# Семинар 1\Blackjack\bin\Debug\net6.0\Blackjack.pdb
+C:\Users\Рыжик\Desktop\Учебные папки GB\Знакомство C# Семинар 1\Blackjack\obj\Debug\net6.0\Blackjack.GlobalUsings.g.cs
+C:\Users\Рыжик\Desktop\Учебные папки GB\Знакомство C# Семинар 1\Blackjack\obj\Debug\net6.0\Blackjack.csproj.AssemblyReference.cache
+C:\Users\Рыжик\Desktop\Учебные папки GB\Знакомство C# Семинар 1\Blackjack\obj\Debug\net6.0\Blackjack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рыжик\Desktop\Учебные папки GB\Знакомство C# Семинар 1\Blackjack\obj\Debug\net6.0\Blackjack.AssemblyInfoInputs.cache
+C:\Users\Рыжик\Desktop\Учебные папки GB\Знакомство C# Семинар 1\Blackjack\obj\Debug\net6.0\Blackjack.AssemblyInfo.cs
+C:\Users\Рыжик\Desktop\Учебные папки GB\Знакомство C# Семинар 1\Blackjack\obj\Debug\net6.0\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\Рыжик\Desktop\Учебные папки GB\Знакомство C# Семинар 1\Blackjack\obj\Debug\net6.0\Blackjack.dll
+C:\Users\Рыжик\Desktop\Учебные папки GB\Знакомство C# Семинар 1\Blackjack\obj\Debug\net6.0\ref\Blackjack.dll
+C:\Users\Рыжик\Desktop\Учебные папки GB\Знакомство C# Семинар 1\Blackjack\obj\Debug\net6.0\Blackjack.pdb
+C:\Users\Рыжик\Desktop\Учебные папки GB\Знакомство C# Семинар 1\Blackjack\obj\Debug\net6.0\Blackjack.genruntimeconfig.cache
